@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Faiz Faisal Hafidz!</h1>
-<h3 align="center">🌟 Full-Stack Developer | 🚀 Tech Enthusiast | 🎨 Open Source Contributor Welcome to my GitHub profile! I’m passionate about creating amazing web applications and solving complex problems with technology. I enjoy collaborating on projects that challenge my skills and push the boundaries of what's possible.</h3>
+<h3 align="center">🌟 Full-Stack Developer | 🚀 Tech Enthusiast | 🎨 Open Source Contributor Welcome to my GitHub profile!</h3> 
+<h4>I’m passionate about creating amazing web applications and solving complex problems with technology. I enjoy collaborating on projects that challenge my skills and push the boundaries of what's possible.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalhfdz-25&label=Profile%20views&color=0e75b6&style=flat" alt="faisalhfdz-25" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisalhfdz-25" alt="faisalhfdz-25" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,6 +15,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalhfdz-25&show_icons=true&locale=en&layout=compact" alt="faisalhfdz-25" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalhfdz-25&show_icons=true&locale=en" alt="faisalhfdz-25" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalhfdz-25&" alt="faisalhfdz-25" /></p>
 
